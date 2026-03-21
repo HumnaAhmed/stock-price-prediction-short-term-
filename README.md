@@ -91,5 +91,6 @@ Stock used:
 
 ### 4. Next Day Prediction
 *Predicted next day closing price from the trained model.*
+
 <img width="201" height="36" alt="image" src="https://github.com/user-attachments/assets/d2e3ebda-1bc7-4a84-87e3-6f450e38ca1a" />
 
